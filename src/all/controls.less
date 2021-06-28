@@ -1,0 +1,12 @@
+/* controls */
+a:not([href]),
+img:not([alt])
+{
+    .danger();
+}
+
+audio, video, image {
+    &:not([src]) {
+        .warning();
+    }
+}

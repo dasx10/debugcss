@@ -1,0 +1,16 @@
+{
+  "name": "debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "debug.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cssmin": "^0.4.3",
+    "gulp": "^4.0.2",
+    "gulp-less": "^5.0.0"
+  }
+}
